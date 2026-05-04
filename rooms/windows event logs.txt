@@ -2,7 +2,7 @@ Windows Event Logs
 https://tryhackme.com/room/windowseventlogs
 
 What is the Event ID for the earliest recorded event?
-40961
+4103
 
 Filter on Event ID 4104. What was the 2nd command executed in the PowerShell session?
 whoami
